@@ -1,16 +1,10 @@
 import argparse
 import socket
 import sys
+import logging
 
 #Dictionary to split up parsing different packages
-options = {
-            "NEWGAME"           :   newGame,
-            "KEYVALUE"          :   keyValue,
-            "REQUESTKEYVALUES"  :   requestKeyValues,
-            "NEWHAND"           :   newHand,
-            "GETACTION"         :   getAction,
-            "HANDOVER"          :   handOver
-}
+
 
 """
 Simple example pokerbot, written in python.
@@ -24,10 +18,19 @@ class Player:
         Initialize new player
     '''
     def __init__(self):
+        logging.basicConfig(filename='log.txt',level=logging.DEBUG)
         self.holeCards = ['', '', '', '']           #an array of strings indicating which holeCards you have
         self.boardCards = ['', '', '', '', '']      #an array of strings indicating which boardCards are out
         self.lastActions = [''] * 10                #an array of strings of the last actions that ocurred
         self.legalActions = ['', '', '', '', '']    #an array of strings indicating possible actions that can be made
+        self.options = {
+            "NEWGAME"           :   self.newGame,
+            "KEYVALUE"          :   self.keyValue,
+            "REQUESTKEYVALUES"  :   self.requestKeyValues,
+            "NEWHAND"           :   self.newHand,
+            "GETACTION"         :   self.getAction,
+            "HANDOVER"          :   self.handOver
+        }       
 
     '''
         Used for running the game bot, should not be edited
@@ -45,7 +48,9 @@ class Player:
                 break
             #Determine packet type
             word = data.split()[0]
-            options[word](data)
+            logging.info(word)
+            print word
+            self.options[word](data)
         # Clean up the socket.
         s.close()
 
@@ -88,7 +93,7 @@ class Player:
         NEWHAND 10 true Ah Ac Kh Kc 100 -100 20.000000
     '''
     def newHand(self, data):
-        reset()
+        self.reset()
         params = data.split()
         self.handId = int(params[1])            #an integer number indicating which hand has been dealt. This counter starts from 1 and increments with each hand.
         self.button = bool(params[2])           #a boolean indicating if you are the button
@@ -97,7 +102,7 @@ class Player:
         self.holeCards[2] = params[5]           #and ace respectively). The second character indicates the suit of the card, drawn from {d,c,s,h}
         self.holeCards[3] = params[6]
         self.myBank = int(params[7])            #an integer indicating your cumulative change in bankroll
-        self.otherBank = int(params[8])         #an integer indicating the opponent player’s cumulative change in bankroll
+        self.otherBank = int(params[8])         #an integer indicating the opponent player's cumulative change in bankroll
 
     '''
         Function to process getAction packet
