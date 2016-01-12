@@ -1,0 +1,2 @@
+# pokerbots
+MIT Pokerbots Competition
