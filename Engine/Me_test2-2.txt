@@ -1,0 +1,801 @@
+6.176 MIT Pokerbots - test22 vs Me2 (stack=200, bb=2)
+Hand #1, test22 (0), Me2 (0)
+test22 posts the blind of 1
+Me2 posts the blind of 2
+Dealt to test22 [6c 3c Ad 9h]
+Dealt to Me2 [3d 8d 7s 4h]
+test22 folds
+Me2 wins the pot (3)
+
+Hand #2, Me2 (1), test22 (-1)
+Me2 posts the blind of 1
+test22 posts the blind of 2
+Dealt to Me2 [Kc 5d 7d 8d]
+Dealt to test22 [Ah Js 7h 9c]
+Me2 folds
+test22 wins the pot (3)
+
+Hand #3, test22 (0), Me2 (0)
+test22 posts the blind of 1
+Me2 posts the blind of 2
+Dealt to test22 [Kd 2s Qh 9d]
+Dealt to Me2 [4s 7c 5d 7d]
+test22 folds
+Me2 wins the pot (3)
+
+Hand #4, Me2 (1), test22 (-1)
+Me2 posts the blind of 1
+test22 posts the blind of 2
+Dealt to Me2 [5c 5s 2c Kc]
+Dealt to test22 [2s 4h 9h 9d]
+Me2 folds
+test22 wins the pot (3)
+
+Hand #5, test22 (0), Me2 (0)
+test22 posts the blind of 1
+Me2 posts the blind of 2
+Dealt to test22 [Jh 4d 2h Tc]
+Dealt to Me2 [3s Th 3c Ks]
+test22 folds
+Me2 wins the pot (3)
+
+Hand #6, Me2 (1), test22 (-1)
+Me2 posts the blind of 1
+test22 posts the blind of 2
+Dealt to Me2 [Qh 9d 5h Tc]
+Dealt to test22 [Qs 3h 9h 2c]
+Me2 folds
+test22 wins the pot (3)
+
+Hand #7, test22 (0), Me2 (0)
+test22 posts the blind of 1
+Me2 posts the blind of 2
+Dealt to test22 [3c Kh Qh 7c]
+Dealt to Me2 [As Qd 8c 2d]
+test22 folds
+Me2 wins the pot (3)
+
+Hand #8, Me2 (1), test22 (-1)
+Me2 posts the blind of 1
+test22 posts the blind of 2
+Dealt to Me2 [Td Qs 3c Tc]
+Dealt to test22 [Ks Jd Ts 2c]
+Me2 folds
+test22 wins the pot (3)
+
+Hand #9, test22 (0), Me2 (0)
+test22 posts the blind of 1
+Me2 posts the blind of 2
+Dealt to test22 [9s 6s 4d 8h]
+Dealt to Me2 [9d Qc 4c 9c]
+test22 folds
+Me2 wins the pot (3)
+
+Hand #10, Me2 (1), test22 (-1)
+Me2 posts the blind of 1
+test22 posts the blind of 2
+Dealt to Me2 [5d 9c Qs Jh]
+Dealt to test22 [7s Td 6h Tc]
+Me2 folds
+test22 wins the pot (3)
+
+Hand #11, test22 (0), Me2 (0)
+test22 posts the blind of 1
+Me2 posts the blind of 2
+Dealt to test22 [7c 3c 9d 7d]
+Dealt to Me2 [Ah Ac 9h As]
+test22 folds
+Me2 wins the pot (3)
+
+Hand #12, Me2 (1), test22 (-1)
+Me2 posts the blind of 1
+test22 posts the blind of 2
+Dealt to Me2 [Ks 9d 4d 5h]
+Dealt to test22 [7s 3c 3s Qs]
+Me2 folds
+test22 wins the pot (3)
+
+Hand #13, test22 (0), Me2 (0)
+test22 posts the blind of 1
+Me2 posts the blind of 2
+Dealt to test22 [4s 2d Kc As]
+Dealt to Me2 [6h 7s 7d Tc]
+test22 folds
+Me2 wins the pot (3)
+
+Hand #14, Me2 (1), test22 (-1)
+Me2 posts the blind of 1
+test22 posts the blind of 2
+Dealt to Me2 [5h 6c 2c 6d]
+Dealt to test22 [3d 7s 7h 9c]
+Me2 folds
+test22 wins the pot (3)
+
+Hand #15, test22 (0), Me2 (0)
+test22 posts the blind of 1
+Me2 posts the blind of 2
+Dealt to test22 [8d 5c Td 8c]
+Dealt to Me2 [8s 5h Jc 8h]
+test22 folds
+Me2 wins the pot (3)
+
+Hand #16, Me2 (1), test22 (-1)
+Me2 posts the blind of 1
+test22 posts the blind of 2
+Dealt to Me2 [4d 6c 2h 9h]
+Dealt to test22 [Js 7c Kh Td]
+Me2 folds
+test22 wins the pot (3)
+
+Hand #17, test22 (0), Me2 (0)
+test22 posts the blind of 1
+Me2 posts the blind of 2
+Dealt to test22 [4d 9h Ad Kc]
+Dealt to Me2 [7c 3s 6s Qh]
+test22 folds
+Me2 wins the pot (3)
+
+Hand #18, Me2 (1), test22 (-1)
+Me2 posts the blind of 1
+test22 posts the blind of 2
+Dealt to Me2 [Kd Ks 6c 8h]
+Dealt to test22 [3s 5h 7d 2c]
+Me2 folds
+test22 wins the pot (3)
+
+Hand #19, test22 (0), Me2 (0)
+test22 posts the blind of 1
+Me2 posts the blind of 2
+Dealt to test22 [9h 4h Ac Kh]
+Dealt to Me2 [Kc 2c Qs 3s]
+test22 folds
+Me2 wins the pot (3)
+
+Hand #20, Me2 (1), test22 (-1)
+Me2 posts the blind of 1
+test22 posts the blind of 2
+Dealt to Me2 [Ts Qd Jh Qc]
+Dealt to test22 [7s 6d 9c 6h]
+Me2 folds
+test22 wins the pot (3)
+
+Hand #21, test22 (0), Me2 (0)
+test22 posts the blind of 1
+Me2 posts the blind of 2
+Dealt to test22 [Ac 5c 2c Jd]
+Dealt to Me2 [6s Js 8d Td]
+test22 folds
+Me2 wins the pot (3)
+
+Hand #22, Me2 (1), test22 (-1)
+Me2 posts the blind of 1
+test22 posts the blind of 2
+Dealt to Me2 [Kh 5d Qs Qh]
+Dealt to test22 [2s 7d 8d Ts]
+Me2 folds
+test22 wins the pot (3)
+
+Hand #23, test22 (0), Me2 (0)
+test22 posts the blind of 1
+Me2 posts the blind of 2
+Dealt to test22 [As 8s 7d 6c]
+Dealt to Me2 [2s 4c Kd 9h]
+test22 folds
+Me2 wins the pot (3)
+
+Hand #24, Me2 (1), test22 (-1)
+Me2 posts the blind of 1
+test22 posts the blind of 2
+Dealt to Me2 [Jc 8h Qd 5c]
+Dealt to test22 [3c 2s Tc 4h]
+Me2 folds
+test22 wins the pot (3)
+
+Hand #25, test22 (0), Me2 (0)
+test22 posts the blind of 1
+Me2 posts the blind of 2
+Dealt to test22 [Jh 5h 2c Ah]
+Dealt to Me2 [8s As 3s 8d]
+test22 folds
+Me2 wins the pot (3)
+
+Hand #26, Me2 (1), test22 (-1)
+Me2 posts the blind of 1
+test22 posts the blind of 2
+Dealt to Me2 [6h 8h 6d 6s]
+Dealt to test22 [7s Jh Ts 9s]
+Me2 folds
+test22 wins the pot (3)
+
+Hand #27, test22 (0), Me2 (0)
+test22 posts the blind of 1
+Me2 posts the blind of 2
+Dealt to test22 [3s 3c 5h Ah]
+Dealt to Me2 [8s Ts Tc Qd]
+test22 folds
+Me2 wins the pot (3)
+
+Hand #28, Me2 (1), test22 (-1)
+Me2 posts the blind of 1
+test22 posts the blind of 2
+Dealt to Me2 [Ad 2s Ks 9d]
+Dealt to test22 [4c Jh 5c Qd]
+Me2 folds
+test22 wins the pot (3)
+
+Hand #29, test22 (0), Me2 (0)
+test22 posts the blind of 1
+Me2 posts the blind of 2
+Dealt to test22 [3c 6s Ks Ah]
+Dealt to Me2 [Th 5d Qs 7h]
+test22 folds
+Me2 wins the pot (3)
+
+Hand #30, Me2 (1), test22 (-1)
+Me2 posts the blind of 1
+test22 posts the blind of 2
+Dealt to Me2 [4d Kh 2h Kd]
+Dealt to test22 [5h 9d 3d 4c]
+Me2 folds
+test22 wins the pot (3)
+
+Hand #31, test22 (0), Me2 (0)
+test22 posts the blind of 1
+Me2 posts the blind of 2
+Dealt to test22 [Ks Js 8s 3d]
+Dealt to Me2 [4s Td Ts Ah]
+test22 folds
+Me2 wins the pot (3)
+
+Hand #32, Me2 (1), test22 (-1)
+Me2 posts the blind of 1
+test22 posts the blind of 2
+Dealt to Me2 [Qs 2c 4c 4h]
+Dealt to test22 [Td 7d 5d 5h]
+Me2 folds
+test22 wins the pot (3)
+
+Hand #33, test22 (0), Me2 (0)
+test22 posts the blind of 1
+Me2 posts the blind of 2
+Dealt to test22 [Kd 9s 8d 7s]
+Dealt to Me2 [Th 4s 2s 6c]
+test22 folds
+Me2 wins the pot (3)
+
+Hand #34, Me2 (1), test22 (-1)
+Me2 posts the blind of 1
+test22 posts the blind of 2
+Dealt to Me2 [4d Tc 5c 2h]
+Dealt to test22 [4h 6c Jh 8c]
+Me2 folds
+test22 wins the pot (3)
+
+Hand #35, test22 (0), Me2 (0)
+test22 posts the blind of 1
+Me2 posts the blind of 2
+Dealt to test22 [6c Ks 4h Qh]
+Dealt to Me2 [8s Qs Jd Tc]
+test22 folds
+Me2 wins the pot (3)
+
+Hand #36, Me2 (1), test22 (-1)
+Me2 posts the blind of 1
+test22 posts the blind of 2
+Dealt to Me2 [Jc Jh 3d 8d]
+Dealt to test22 [2s Tc 2c 4c]
+Me2 folds
+test22 wins the pot (3)
+
+Hand #37, test22 (0), Me2 (0)
+test22 posts the blind of 1
+Me2 posts the blind of 2
+Dealt to test22 [9s Tc 2h Ks]
+Dealt to Me2 [5h 8s Qh Ah]
+test22 folds
+Me2 wins the pot (3)
+
+Hand #38, Me2 (1), test22 (-1)
+Me2 posts the blind of 1
+test22 posts the blind of 2
+Dealt to Me2 [8h 2d 8s 9c]
+Dealt to test22 [7c 9h Jd 5d]
+Me2 folds
+test22 wins the pot (3)
+
+Hand #39, test22 (0), Me2 (0)
+test22 posts the blind of 1
+Me2 posts the blind of 2
+Dealt to test22 [4h Kh 3d Tc]
+Dealt to Me2 [6d Qs 7d 2d]
+test22 folds
+Me2 wins the pot (3)
+
+Hand #40, Me2 (1), test22 (-1)
+Me2 posts the blind of 1
+test22 posts the blind of 2
+Dealt to Me2 [Qs Ac Kh 4c]
+Dealt to test22 [9s 6h 9c Qc]
+Me2 folds
+test22 wins the pot (3)
+
+Hand #41, test22 (0), Me2 (0)
+test22 posts the blind of 1
+Me2 posts the blind of 2
+Dealt to test22 [6s 4d 7c Ad]
+Dealt to Me2 [Tc 6h Jc 6c]
+test22 folds
+Me2 wins the pot (3)
+
+Hand #42, Me2 (1), test22 (-1)
+Me2 posts the blind of 1
+test22 posts the blind of 2
+Dealt to Me2 [6d Ts Td 7h]
+Dealt to test22 [6h 9d Qh 4h]
+Me2 folds
+test22 wins the pot (3)
+
+Hand #43, test22 (0), Me2 (0)
+test22 posts the blind of 1
+Me2 posts the blind of 2
+Dealt to test22 [9d Jc As 2d]
+Dealt to Me2 [Tc 9h 2c Js]
+test22 folds
+Me2 wins the pot (3)
+
+Hand #44, Me2 (1), test22 (-1)
+Me2 posts the blind of 1
+test22 posts the blind of 2
+Dealt to Me2 [8s 5h Th 3s]
+Dealt to test22 [Jc 3c Kc 6h]
+Me2 folds
+test22 wins the pot (3)
+
+Hand #45, test22 (0), Me2 (0)
+test22 posts the blind of 1
+Me2 posts the blind of 2
+Dealt to test22 [6h 5s 7d 8d]
+Dealt to Me2 [9s As 9c 2s]
+test22 folds
+Me2 wins the pot (3)
+
+Hand #46, Me2 (1), test22 (-1)
+Me2 posts the blind of 1
+test22 posts the blind of 2
+Dealt to Me2 [6h 6d 6c Ts]
+Dealt to test22 [5h 5s Js 2h]
+Me2 folds
+test22 wins the pot (3)
+
+Hand #47, test22 (0), Me2 (0)
+test22 posts the blind of 1
+Me2 posts the blind of 2
+Dealt to test22 [7c 8d Kd Ah]
+Dealt to Me2 [Kh Ac 7s 7h]
+test22 folds
+Me2 wins the pot (3)
+
+Hand #48, Me2 (1), test22 (-1)
+Me2 posts the blind of 1
+test22 posts the blind of 2
+Dealt to Me2 [9d 6s Qh 5c]
+Dealt to test22 [5h 4s Tc 7c]
+Me2 folds
+test22 wins the pot (3)
+
+Hand #49, test22 (0), Me2 (0)
+test22 posts the blind of 1
+Me2 posts the blind of 2
+Dealt to test22 [Tc 4h 3s 9d]
+Dealt to Me2 [Kh 4c 6c Th]
+test22 folds
+Me2 wins the pot (3)
+
+Hand #50, Me2 (1), test22 (-1)
+Me2 posts the blind of 1
+test22 posts the blind of 2
+Dealt to Me2 [3c 4d Kh 9h]
+Dealt to test22 [6h 2d Qs 4c]
+Me2 folds
+test22 wins the pot (3)
+
+Hand #51, test22 (0), Me2 (0)
+test22 posts the blind of 1
+Me2 posts the blind of 2
+Dealt to test22 [Tc Ks 9s 4h]
+Dealt to Me2 [Kh 6s 3d Th]
+test22 folds
+Me2 wins the pot (3)
+
+Hand #52, Me2 (1), test22 (-1)
+Me2 posts the blind of 1
+test22 posts the blind of 2
+Dealt to Me2 [7c 9c Kc 4s]
+Dealt to test22 [4d Kh Ah 8d]
+Me2 folds
+test22 wins the pot (3)
+
+Hand #53, test22 (0), Me2 (0)
+test22 posts the blind of 1
+Me2 posts the blind of 2
+Dealt to test22 [4s 5c 7s Jd]
+Dealt to Me2 [8h Td 2h 7h]
+test22 folds
+Me2 wins the pot (3)
+
+Hand #54, Me2 (1), test22 (-1)
+Me2 posts the blind of 1
+test22 posts the blind of 2
+Dealt to Me2 [7d 3c 5s 2h]
+Dealt to test22 [4d Jc 4h 6d]
+Me2 folds
+test22 wins the pot (3)
+
+Hand #55, test22 (0), Me2 (0)
+test22 posts the blind of 1
+Me2 posts the blind of 2
+Dealt to test22 [2h 7d Qd Jc]
+Dealt to Me2 [8d 5c 9d Qs]
+test22 folds
+Me2 wins the pot (3)
+
+Hand #56, Me2 (1), test22 (-1)
+Me2 posts the blind of 1
+test22 posts the blind of 2
+Dealt to Me2 [7c 9c 4h 2d]
+Dealt to test22 [6s 3c 2h Kd]
+Me2 folds
+test22 wins the pot (3)
+
+Hand #57, test22 (0), Me2 (0)
+test22 posts the blind of 1
+Me2 posts the blind of 2
+Dealt to test22 [Qs Ks 2s Ah]
+Dealt to Me2 [Jd Jc 7h 7s]
+test22 folds
+Me2 wins the pot (3)
+
+Hand #58, Me2 (1), test22 (-1)
+Me2 posts the blind of 1
+test22 posts the blind of 2
+Dealt to Me2 [8d Ac Qs 5s]
+Dealt to test22 [Kd Qc 6h Kh]
+Me2 folds
+test22 wins the pot (3)
+
+Hand #59, test22 (0), Me2 (0)
+test22 posts the blind of 1
+Me2 posts the blind of 2
+Dealt to test22 [8d Qs 2c 7s]
+Dealt to Me2 [Ac 2s 4h Qc]
+test22 folds
+Me2 wins the pot (3)
+
+Hand #60, Me2 (1), test22 (-1)
+Me2 posts the blind of 1
+test22 posts the blind of 2
+Dealt to Me2 [2h Ts 7h 4h]
+Dealt to test22 [Kh Qc 7c Ah]
+Me2 folds
+test22 wins the pot (3)
+
+Hand #61, test22 (0), Me2 (0)
+test22 posts the blind of 1
+Me2 posts the blind of 2
+Dealt to test22 [Qc Th 7c 4s]
+Dealt to Me2 [Qs Kc 4h Ks]
+test22 folds
+Me2 wins the pot (3)
+
+Hand #62, Me2 (1), test22 (-1)
+Me2 posts the blind of 1
+test22 posts the blind of 2
+Dealt to Me2 [8s 7c 5s Ad]
+Dealt to test22 [Qd Ts 5c Qc]
+Me2 folds
+test22 wins the pot (3)
+
+Hand #63, test22 (0), Me2 (0)
+test22 posts the blind of 1
+Me2 posts the blind of 2
+Dealt to test22 [Ac 4h 3d 9s]
+Dealt to Me2 [5h 4s 6h Qs]
+test22 folds
+Me2 wins the pot (3)
+
+Hand #64, Me2 (1), test22 (-1)
+Me2 posts the blind of 1
+test22 posts the blind of 2
+Dealt to Me2 [5h Qh 2c 4h]
+Dealt to test22 [4d Js Ts 3c]
+Me2 folds
+test22 wins the pot (3)
+
+Hand #65, test22 (0), Me2 (0)
+test22 posts the blind of 1
+Me2 posts the blind of 2
+Dealt to test22 [7s Kc Kh Ks]
+Dealt to Me2 [9d Jc 6c 8s]
+test22 folds
+Me2 wins the pot (3)
+
+Hand #66, Me2 (1), test22 (-1)
+Me2 posts the blind of 1
+test22 posts the blind of 2
+Dealt to Me2 [3s 9d Qh 2c]
+Dealt to test22 [5d Kh Tc Td]
+Me2 folds
+test22 wins the pot (3)
+
+Hand #67, test22 (0), Me2 (0)
+test22 posts the blind of 1
+Me2 posts the blind of 2
+Dealt to test22 [2d Kh 9h 6h]
+Dealt to Me2 [Js As Th Tc]
+test22 folds
+Me2 wins the pot (3)
+
+Hand #68, Me2 (1), test22 (-1)
+Me2 posts the blind of 1
+test22 posts the blind of 2
+Dealt to Me2 [Tc Qd Ts 8c]
+Dealt to test22 [Qs Jd As Js]
+Me2 folds
+test22 wins the pot (3)
+
+Hand #69, test22 (0), Me2 (0)
+test22 posts the blind of 1
+Me2 posts the blind of 2
+Dealt to test22 [Ts Th 3c 6d]
+Dealt to Me2 [As Qs 6c 5s]
+test22 folds
+Me2 wins the pot (3)
+
+Hand #70, Me2 (1), test22 (-1)
+Me2 posts the blind of 1
+test22 posts the blind of 2
+Dealt to Me2 [6h Jc 6d 4h]
+Dealt to test22 [Ac 3s Ah 8d]
+Me2 folds
+test22 wins the pot (3)
+
+Hand #71, test22 (0), Me2 (0)
+test22 posts the blind of 1
+Me2 posts the blind of 2
+Dealt to test22 [9s 9h 5d Ks]
+Dealt to Me2 [Js 5s 3h 5h]
+test22 folds
+Me2 wins the pot (3)
+
+Hand #72, Me2 (1), test22 (-1)
+Me2 posts the blind of 1
+test22 posts the blind of 2
+Dealt to Me2 [Js 5c 7s Qc]
+Dealt to test22 [Qs 2c 7h Ks]
+Me2 folds
+test22 wins the pot (3)
+
+Hand #73, test22 (0), Me2 (0)
+test22 posts the blind of 1
+Me2 posts the blind of 2
+Dealt to test22 [2c 4s Jc Kc]
+Dealt to Me2 [5d Td Qh 8c]
+test22 folds
+Me2 wins the pot (3)
+
+Hand #74, Me2 (1), test22 (-1)
+Me2 posts the blind of 1
+test22 posts the blind of 2
+Dealt to Me2 [6d 4h 2d 4c]
+Dealt to test22 [Ts 5h 2s 2h]
+Me2 folds
+test22 wins the pot (3)
+
+Hand #75, test22 (0), Me2 (0)
+test22 posts the blind of 1
+Me2 posts the blind of 2
+Dealt to test22 [4c 2h 4d 9c]
+Dealt to Me2 [9h 3c 5d Kc]
+test22 folds
+Me2 wins the pot (3)
+
+Hand #76, Me2 (1), test22 (-1)
+Me2 posts the blind of 1
+test22 posts the blind of 2
+Dealt to Me2 [7d 4s Kd 7s]
+Dealt to test22 [As 4h Qh 3h]
+Me2 folds
+test22 wins the pot (3)
+
+Hand #77, test22 (0), Me2 (0)
+test22 posts the blind of 1
+Me2 posts the blind of 2
+Dealt to test22 [8c 4d 6c Ac]
+Dealt to Me2 [7c 6h 7s 7h]
+test22 folds
+Me2 wins the pot (3)
+
+Hand #78, Me2 (1), test22 (-1)
+Me2 posts the blind of 1
+test22 posts the blind of 2
+Dealt to Me2 [Kc Th 4h 8c]
+Dealt to test22 [Qh 2d 7s Qd]
+Me2 folds
+test22 wins the pot (3)
+
+Hand #79, test22 (0), Me2 (0)
+test22 posts the blind of 1
+Me2 posts the blind of 2
+Dealt to test22 [Jc Qc 7c Js]
+Dealt to Me2 [5c 4s Jd 7s]
+test22 folds
+Me2 wins the pot (3)
+
+Hand #80, Me2 (1), test22 (-1)
+Me2 posts the blind of 1
+test22 posts the blind of 2
+Dealt to Me2 [8h 8d 6c Js]
+Dealt to test22 [3d 2h 6d Kh]
+Me2 folds
+test22 wins the pot (3)
+
+Hand #81, test22 (0), Me2 (0)
+test22 posts the blind of 1
+Me2 posts the blind of 2
+Dealt to test22 [Ts 3s 5s 3d]
+Dealt to Me2 [Qd 5c 6c 6s]
+test22 folds
+Me2 wins the pot (3)
+
+Hand #82, Me2 (1), test22 (-1)
+Me2 posts the blind of 1
+test22 posts the blind of 2
+Dealt to Me2 [Jc 3d Jd 2d]
+Dealt to test22 [9h As 2h Jh]
+Me2 folds
+test22 wins the pot (3)
+
+Hand #83, test22 (0), Me2 (0)
+test22 posts the blind of 1
+Me2 posts the blind of 2
+Dealt to test22 [3h 2d 4s Ah]
+Dealt to Me2 [9s 7h Ts 5s]
+test22 folds
+Me2 wins the pot (3)
+
+Hand #84, Me2 (1), test22 (-1)
+Me2 posts the blind of 1
+test22 posts the blind of 2
+Dealt to Me2 [3h 7h Kd 7c]
+Dealt to test22 [As 6c 7s Jh]
+Me2 folds
+test22 wins the pot (3)
+
+Hand #85, test22 (0), Me2 (0)
+test22 posts the blind of 1
+Me2 posts the blind of 2
+Dealt to test22 [3h Kd 6c Jd]
+Dealt to Me2 [5h Ac Qh 3s]
+test22 folds
+Me2 wins the pot (3)
+
+Hand #86, Me2 (1), test22 (-1)
+Me2 posts the blind of 1
+test22 posts the blind of 2
+Dealt to Me2 [Tc Qc Qd 8s]
+Dealt to test22 [Ks 8c Jc Ad]
+Me2 folds
+test22 wins the pot (3)
+
+Hand #87, test22 (0), Me2 (0)
+test22 posts the blind of 1
+Me2 posts the blind of 2
+Dealt to test22 [Qh Th 9c 4c]
+Dealt to Me2 [3c 2s Jd Ad]
+test22 folds
+Me2 wins the pot (3)
+
+Hand #88, Me2 (1), test22 (-1)
+Me2 posts the blind of 1
+test22 posts the blind of 2
+Dealt to Me2 [Kd 7h As 6c]
+Dealt to test22 [3s 7c 9s 8d]
+Me2 folds
+test22 wins the pot (3)
+
+Hand #89, test22 (0), Me2 (0)
+test22 posts the blind of 1
+Me2 posts the blind of 2
+Dealt to test22 [Ac 7h 2c 5d]
+Dealt to Me2 [3c 4h 4c Js]
+test22 folds
+Me2 wins the pot (3)
+
+Hand #90, Me2 (1), test22 (-1)
+Me2 posts the blind of 1
+test22 posts the blind of 2
+Dealt to Me2 [Jc Qh 2d 3c]
+Dealt to test22 [Kh 7d 2c Js]
+Me2 folds
+test22 wins the pot (3)
+
+Hand #91, test22 (0), Me2 (0)
+test22 posts the blind of 1
+Me2 posts the blind of 2
+Dealt to test22 [7c Tc 2h 3h]
+Dealt to Me2 [Jh 4c 9h Jc]
+test22 folds
+Me2 wins the pot (3)
+
+Hand #92, Me2 (1), test22 (-1)
+Me2 posts the blind of 1
+test22 posts the blind of 2
+Dealt to Me2 [8d 2s 3d 4h]
+Dealt to test22 [6h 8h Qs 8c]
+Me2 folds
+test22 wins the pot (3)
+
+Hand #93, test22 (0), Me2 (0)
+test22 posts the blind of 1
+Me2 posts the blind of 2
+Dealt to test22 [Jd 3h 2c 9c]
+Dealt to Me2 [5h Kh Js Ks]
+test22 folds
+Me2 wins the pot (3)
+
+Hand #94, Me2 (1), test22 (-1)
+Me2 posts the blind of 1
+test22 posts the blind of 2
+Dealt to Me2 [8h As 3s 7s]
+Dealt to test22 [9s Qs 8c 6s]
+Me2 folds
+test22 wins the pot (3)
+
+Hand #95, test22 (0), Me2 (0)
+test22 posts the blind of 1
+Me2 posts the blind of 2
+Dealt to test22 [Kh 9h Ts 5h]
+Dealt to Me2 [9c 6c 3c As]
+test22 folds
+Me2 wins the pot (3)
+
+Hand #96, Me2 (1), test22 (-1)
+Me2 posts the blind of 1
+test22 posts the blind of 2
+Dealt to Me2 [Tc 2c 5c Jh]
+Dealt to test22 [8d 6c 5h 2h]
+Me2 folds
+test22 wins the pot (3)
+
+Hand #97, test22 (0), Me2 (0)
+test22 posts the blind of 1
+Me2 posts the blind of 2
+Dealt to test22 [Ah 8h 7d 3d]
+Dealt to Me2 [3c 7h Qs 8c]
+test22 folds
+Me2 wins the pot (3)
+
+Hand #98, Me2 (1), test22 (-1)
+Me2 posts the blind of 1
+test22 posts the blind of 2
+Dealt to Me2 [6s Kh Ac Qd]
+Dealt to test22 [4s 2c Ad 4h]
+Me2 folds
+test22 wins the pot (3)
+
+Hand #99, test22 (0), Me2 (0)
+test22 posts the blind of 1
+Me2 posts the blind of 2
+Dealt to test22 [Kh 8c Jh Kc]
+Dealt to Me2 [2s Ah 5h 9c]
+test22 folds
+Me2 wins the pot (3)
+
+Hand #100, Me2 (1), test22 (-1)
+Me2 posts the blind of 1
+test22 posts the blind of 2
+Dealt to Me2 [5h 4d 5s 2s]
+Dealt to test22 [9d 3h Jh 6c]
+Me2 folds
+test22 wins the pot (3)
+
